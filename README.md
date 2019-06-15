@@ -14,6 +14,7 @@ Running "python notification.py" will prompt for user input --- Provide a list o
 Example : 
 --------------------
 python notification.py
+
 Enter stocks name: Dewan Housing, HFCL, Bank of India
 
 ![sample](sample.png)
