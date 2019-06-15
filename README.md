@@ -15,6 +15,7 @@ Example :
 --------------------
 python notification.py
 Enter stocks name: Dewan Housing, HFCL, Bank of India
+
 ![sample](sample.png)
 
 
