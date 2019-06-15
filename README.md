@@ -13,7 +13,7 @@ Running "python notification.py" will prompt for user input --- Provide a list o
 
 Example : 
 --------------------
-"sample.png"
+![sample](C:\Users\Atul Garg\Desktop\sample.png)
 python notification.py
 Enter stocks name: Dewan Housing, HFCL, Bank of India
 
