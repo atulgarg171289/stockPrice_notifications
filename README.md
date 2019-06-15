@@ -11,8 +11,9 @@ Source WebPage - "https://www.moneycontrol.com/india/stockpricequote/"
 
 Running "python notification.py" will prompt for user input --- Provide a list of Stocks comma(',') seperated with exact names as in the Source WebPage. 
 
-Example :
+Example : 
 --------------------
+"sample.png"
 python notification.py
 Enter stocks name: Dewan Housing, HFCL, Bank of India
 
