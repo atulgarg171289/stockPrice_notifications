@@ -30,7 +30,9 @@ Configuration provided :
 ---------------------
 ## Libraries uses (install if not present,using - "pip install <lib_name>")
 requests (Python library to make HTTP requests to a webpage)
+
 bs4 (Beautiful Soup: Python library for scrapping information from web pages)
+
 win10toast (Python library for displaying Windows 10 Toast Notifications)
 
 
