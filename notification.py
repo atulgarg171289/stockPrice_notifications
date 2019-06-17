@@ -5,7 +5,6 @@ Created on Thu Jun 13 22:20:25 2019
 @author: Atul Garg
 """
 #import libraries
-
 import time
 import requests
 from bs4 import BeautifulSoup
