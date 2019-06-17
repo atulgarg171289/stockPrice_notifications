@@ -22,7 +22,6 @@ Enter stocks name: Dewan Housing, HFCL, Bank of India
 
 Configuration provided :
 ---------------------
-- Each Notification will remain on desktop for duration==20 seconds 
 - sleep of 10 seconds between two stock's notification
 - Next run of notification after sleep==1800 seconds (30 minutes)
 
