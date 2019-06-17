@@ -35,3 +35,5 @@ bs4 (Beautiful Soup: Python library for scrapping information from web pages)
 win10toast (Python library for displaying Windows 10 Toast Notifications)
 
 
+--------------------
+Download Executable from - https://jmp.sh/reZNVxv
